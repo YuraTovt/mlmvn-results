@@ -1,0 +1,46 @@
+Neural network: /home/yura/Study/winter-summer-2023/Dyploma/src/experiments/20231129/speckle/4x4/16_1024_16/nn_e1_b1_i100_best.mat 
+Image patch width: 4 
+Image patch height: 4 
+Patches creation algorithm: step 
+Row step: 1 
+Col step: 1 
+File: 001.tif 
+Noisy PSNR: 27.314530 
+Filtered PSNR: 31.503083 
+
+File: 002.tif 
+Noisy PSNR: 29.123029 
+Filtered PSNR: 30.995386 
+
+File: 003.tif 
+Noisy PSNR: 25.617680 
+Filtered PSNR: 29.803859 
+
+File: 004.tif 
+Noisy PSNR: 30.276028 
+Filtered PSNR: 32.404376 
+
+File: 005.tif 
+Noisy PSNR: 27.741194 
+Filtered PSNR: 31.011464 
+
+File: 006.tif 
+Noisy PSNR: 27.078483 
+Filtered PSNR: 31.092914 
+
+File: 007.tif 
+Noisy PSNR: 31.488367 
+Filtered PSNR: 36.500684 
+
+File: 008.tif 
+Noisy PSNR: 29.513291 
+Filtered PSNR: 34.156921 
+
+File: 009.tif 
+Noisy PSNR: 31.468247 
+Filtered PSNR: 35.450648 
+
+File: 010.tif 
+Noisy PSNR: 31.923621 
+Filtered PSNR: 36.690117 
+
